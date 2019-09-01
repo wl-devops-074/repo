@@ -12,4 +12,4 @@
     
 * Run test
   
-      npm test pfffff
+      npm test pfffffhhhh
