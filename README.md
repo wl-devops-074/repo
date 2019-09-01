@@ -1,7 +1,7 @@
 bbbbJJJJgggkkkkhhhio# nodennnnjs_appvvvv
 gggggg
 * Install dependennnncies
-  nnnn
+  nnnnhhh
       npm install
 
 * Run application
