@@ -1,6 +1,6 @@
 bbbbJJJJgggkkkkhhhio# nodennnnjs_appvvvv
 gggggg
-* Install dependencies
+* Install dependennnncies
   nnnn
       npm install
     hhhh
