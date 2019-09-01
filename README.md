@@ -1,4 +1,4 @@
-# nodejs_app  sos
+# nodejs_app 
 
 * Install dependencies
   
