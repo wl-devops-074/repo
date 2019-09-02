@@ -7,7 +7,7 @@ pipeline {
    stage('Init') {
 	steps {
 	 sh 'rm -rf nodejs_app'
-	 git branch: 'master',
+	 git branch: 'yosr-node',
 	 url: 'https://github.com/yosr074/nodejs_app.git'
       }
     }
