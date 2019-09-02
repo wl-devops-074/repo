@@ -10,6 +10,6 @@
       Browser http://localhost:3000?name=yosr
       You should see `yosr`
     
-* Run test
+* Run test yosr
   
       npm test
