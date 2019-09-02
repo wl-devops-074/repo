@@ -4,7 +4,7 @@
   
       npm install
     
-* Run application
+* Run applicationhhh
 
       npm start
       Browser http://localhost:3000?name=yosr
