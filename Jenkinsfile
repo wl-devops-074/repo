@@ -8,7 +8,7 @@ pipeline {
 	steps {
 	 sh 'rm -rf nodejs_app'
 	 git branch: 'yosr-node',
-	 url: 'https://github.com/yosr074/nodejs_app.git'
+	 url: 'https://github.com/wl-devops-074/repo.git'
       }
     }
 
