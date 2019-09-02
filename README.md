@@ -1,16 +1,13 @@
-# nodejs_app 
+bbbbJJJJgggkkkkhhhio# nodennnnjs_appvvvv gggggg
 
-* Install dependencies
-  
-      npm install
-    
-* Run applicationhhh
+Install dependennnncies nnnnhhh npm install
 
-      npm start
-      Browser http://localhost:3000?name=yosr
-      You should see `yosr`
-    
-* Run test
-  
-      npm test pfffffhhhh
-jjjj
+Run application
+
+npm start
+Browser http://localhost:3000?name=yosr
+You should see `yosr`
+Run test
+
+npm test
+mmmm kkk ll
