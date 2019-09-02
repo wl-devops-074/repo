@@ -1,5 +1,4 @@
-# nodejs_app  yosr a22 kiii
-
+# nodejs_app 
 * Install dependencies
   
       npm install
@@ -10,6 +9,6 @@
       Browser http://localhost:3000?name=yosr
       You should see `yosr`
     
-* Run test yosr
+* Run test 
   
       npm test
