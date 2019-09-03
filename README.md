@@ -12,4 +12,4 @@
     
 * Run test
   
-      npm test
+      npm test yosr
