@@ -7,7 +7,7 @@ pipeline {
    stage('Init') {
 	steps {
 	 sh 'rm -rf nodejs_app'
-	 git branch: 'pr-10',
+	 git branch: 'master',
 	 url: 'https://github.com/wl-devops-074/repo.git'
       }
     }
