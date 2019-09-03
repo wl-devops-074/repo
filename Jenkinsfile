@@ -23,11 +23,6 @@ pipeline {
       }
     }
      
-    stage('publish package to npmjs') {
-      steps {
-        sh'npm config set registry https://registry.npmjs.com/'
-        sh 'npm publish --access=public'
-       }
-    }
+   
   }
 }
